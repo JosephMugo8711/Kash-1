@@ -24,8 +24,6 @@ Welcome to the Fintech Web App project! This application provide users with inte
 - **Documentation:** Detailed documentation will be available in the "Read the Docs" section (to be filled in).
 
 ## Read the Docs
-Documentation for this project, including installation instructions, API documentation, and development guidelines. They include:
-
 
   
 
