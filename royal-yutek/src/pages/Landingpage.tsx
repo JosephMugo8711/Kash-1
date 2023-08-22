@@ -1,9 +1,9 @@
-import React from "react";
+// import React from "react";
 
-export const Landingpage = () => {
-    return(
-        <div>
+// export const Landingpage = () => {
+//     return(
+//         <div>
 
-        </div>
-    )
-}
+//         </div>
+//     )
+// }
