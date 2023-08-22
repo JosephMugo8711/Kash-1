@@ -1,9 +1,9 @@
-# Kash
+# Royal Yutek
 
 # Fintech Web App
 
 ## About
-Welcome to the Fintech Web App project! This application provide users with intelligent financial insights, smart predictions, and tools to manage their finances effectively. It leverages machine learning models and a user-friendly interface, to empower users to make informed financial decisions.
+Welcome to the Fintech Web App project! This application provides users with intelligent financial insights, smart predictions, and tools to manage their finances effectively. It leverages machine learning models and a user-friendly interface, to empower users to make informed financial decisions.
 
 ## Features
 - **Landing Page and Dashboard:** Get a quick overview of your financial status, market trends, and spending habits.
