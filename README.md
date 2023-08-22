@@ -16,7 +16,7 @@ Welcome to the Fintech Web App project! This application provides users with int
 - **API Integration:** Seamless integration with external APIs to enhance app functionality.
 
 ## Tools
-- **Front-end:** The user interface is built using React, a powerful JavaScript library for creating interactive and dynamic web applications.
+- **Front-end:** The user interface is built using ReactJS, a powerful JavaScript library for creating interactive and dynamic web applications.
 - **Back-end:** The back-end logic is developed using Ktor, a modern and asynchronous framework for building APIs in Kotlin.
 - **Machine Learning:** Python is utilized for training machine learning models to provide predictive and advisory functionalities.
 - **Database:** Exposed, a Kotlin SQL library, is used to design and manage the relational database for user transactions and profiles.
