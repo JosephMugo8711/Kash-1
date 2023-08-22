@@ -23,7 +23,9 @@ Welcome to the Fintech Web App project! This application provide users with inte
 - **API Testing:** Postman is employed for testing and validating API endpoints during development.
 - **Documentation:** Detailed documentation will be available in the "Read the Docs" section (to be filled in).
 
-## Read the Docs
+## UI / UX
+
+https://www.figma.com/file/fjTigbQgvrH8E1N4Ygn81q/KASH?type=design&node-id=0-1&mode=design&t=tNmvVm7BCEjUi6YJ-0
 
   
 
