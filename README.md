@@ -32,7 +32,13 @@ https://www.figma.com/file/fjTigbQgvrH8E1N4Ygn81q/KASH?type=design&node-id=0-1&m
 ## Getting Started
 To get started with this project, follow the steps outlined in the docs
 
-## Contributing
+## Technologies
+1. React
+2. JavaScript
+3. Typescript
+4. Python
+5. Kotlin
+
 
 
 ## License
