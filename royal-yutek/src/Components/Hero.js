@@ -7,7 +7,7 @@ export const Hero = () => {
     <div className="bg-white py-12 px-8 lg:flex">
       <div className="lg:w-1/2 lg:flex lg:flex-col lg:justify-center">
         <div className="welcome">
-          <h2 className="text-4xl font-semibold">Welcome to KASH App</h2>
+          <h2 className="text-4xl font-semibold">Royal Yutek Bank</h2>
           <p className="mt-2 text-lg text-gray-700">
             Get Access to intelligent financial insights, smart predictions,<br />
             and tools to manage finances effectively.
