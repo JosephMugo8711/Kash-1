@@ -1,14 +1,10 @@
 import React from 'react';
-import { Sidebar } from '../Sidebar';
-import { AppRoutes } from '../AppRoutes';
+import { PageContent } from "../PageContent";
 
 export const Dashboard = () => {
   return (
-    <div>
-    <Sidebar />
-    <div>
-      <AppRoutes />
-    </div>
-  </div>
+     <> 
+      <PageContent />
+     </>
   );
 };
