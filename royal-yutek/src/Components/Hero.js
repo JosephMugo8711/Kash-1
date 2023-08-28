@@ -1,5 +1,6 @@
 import React from 'react';
 import herobg from '../images/herobg.png';
+import { Link } from 'react-router-dom';
 
 export const Hero = () => {
   return (
@@ -11,9 +12,11 @@ export const Hero = () => {
             Get Access to intelligent financial insights, smart predictions,<br />
             and tools to manage finances effectively.
           </p>
-          <button className="mt-4 bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-md font-medium">
-            Get Started
-          </button>
+          <Link to="/signup">
+            <button className="mt-4 bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded-md font-medium">
+              Get Started
+            </button>
+          </Link>
         </div>
       </div>
       <div className="lg:w-1/2 lg:ml-auto">
